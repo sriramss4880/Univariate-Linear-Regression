@@ -60,7 +60,6 @@ print (Y_pred)
 ```
 ## Output
 
-![Screenshot_20230128_090700](https://user-images.githubusercontent.com/120554177/215309716-d7a3caa3-9eea-45ef-817e-9768ed90ad3b.png)
-
+![Screenshot_20230128_090700](https://user-images.githubusercontent.com/120554177/215309788-7e1b75e2-9ef8-4405-a9f7-becf859f259d.jpg)
 ## Result
 Thus the univariate Linear Regression was implemented to fit a straight line using least squares.
